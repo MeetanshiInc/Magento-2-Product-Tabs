@@ -24,3 +24,6 @@ Showcase everything that can boost the purchase confidence in your Magento store
 ● Enhance the on-page experience of your product page by classifying the content into tabs.
 
 For more information, visit ***[https://meetanshi.com/magento-2-product-tabs.html](https://meetanshi.com/magento-2-product-tabs.html)***
+
+Need help with installation and configuration? Refer to the User Guide:
+***[https://meetanshi.com/docs/magento-2/product-tabs/](https://meetanshi.com/docs/magento-2/product-tabs/)***
